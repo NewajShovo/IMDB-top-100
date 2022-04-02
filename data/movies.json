@@ -1,6 +1,6 @@
 {
-    "MovieList":
-    [{
+    "MovieList":[
+    {
         "title": "The Shawshank Redemption",
         "rank": "1",
         "id": "tt0111161"
