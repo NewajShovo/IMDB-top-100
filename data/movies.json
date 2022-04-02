@@ -1,4 +1,4 @@
-[ 
+{
     "MovieList":
     [{
         "title": "The Shawshank Redemption",
@@ -499,5 +499,6 @@
         "title": "Indiana Jones and the Last Crusade",
         "rank": "100",
         "id": "tt0097576"
-    }]
-]
+    }
+    ]
+}
