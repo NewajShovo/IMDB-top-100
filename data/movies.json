@@ -1,6 +1,6 @@
 [ 
-    MovieList:{
-    {
+    MovieList:
+    [{
         "title": "The Shawshank Redemption",
         "rank": "1",
         "id": "tt0111161"
@@ -499,6 +499,5 @@
         "title": "Indiana Jones and the Last Crusade",
         "rank": "100",
         "id": "tt0097576"
-    }
-}
+    }]
 ]
